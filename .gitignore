@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Data & outputs
+*.h5
+*.json
+*.csv
+data/
+outputs/
+models/
+*.zip
+
+# OS / IDE
+.vscode/
+.DS_Store
+Thumbs.db
